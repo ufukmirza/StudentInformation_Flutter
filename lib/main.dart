@@ -287,4 +287,3 @@ class addStudent extends StatefulWidget{
 
 
 
-//Center(child: Text("merhaba"),)
